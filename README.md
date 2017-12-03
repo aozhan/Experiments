@@ -14,18 +14,18 @@ TODO:
 
 
 ## Backbone by [Jeff-LiangF, aozhan]
-|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|
-|-- |------------ | --------------- | ----------------------| ------- |----|
-|baseline||||||
+|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|comments|
+|-- |------------ | --------------- | ----------------------| ------- |----|---|
+|baseline|||||||
 
 
 ## Localization by [SophieGuan, knwng]
-|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|
-|-- |------------ | --------------- | ----------------------| ------- |----|
-|||||||
+|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|comments|
+|-- |------------ | --------------- | ----------------------| ------- |----|---|
+||||||||
 
 
 ## Classification & post-process by [abnerdesigner1992, Nick-Zhou]
-|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|
-|-- |------------ | --------------- | ----------------------| ------- |----|
-|||||||
+|experiment id|backbone     |modification     | learning-rate schedule|epoch(iteration)|dataset|comments|
+|-- |------------ | --------------- | ----------------------| ------- |----|---|
+||||||||
